@@ -16,7 +16,6 @@
 ### 🌟 About Me
 
 <div style="display:flex; flex-wrap:wrap; align-items:center; gap:20px;">
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
   <p>
     Hey there! I'm Md. Shehab Al Rabby — a Junior MERN Stack Developer and CSE student at Daffodil International University.<br/>
     I love building sleek, scalable web apps and exploring new technologies that push my skills forward.
