@@ -1,100 +1,122 @@
-<!--- Banner --->
-<img src="https://i.ibb.co/KjLhrTH5/banner.png" width="100%" alt="Banner"/>
-<br/>
+<div align="center">
+  <img src="https://i.ibb.co/KjLhrTH5/banner.png" width="100%" alt="Shehab's Banner"/>
 
-<!-- Visitor Badge -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+  <br/>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shehab....;Nice+to+meet+you!&center=true&size=36">
-  </a>
-</h1>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+MERN+Developer;CSE+Student+@+DIU;Building+Digital+Experiences;Problem+Solver+&+Open+Sourcer&center=true&width=600&height=45&size=30&color=38BDF8&vCenter=true">
+  </h1>
 
----
-
-### 🌟 About Me
-
-<div style="display:flex; flex-wrap:wrap; align-items:center; gap:20px;">
   <p>
-    Hey there! I'm Md. Shehab Al Rabby — a Junior MERN Stack Developer and CSE student at Daffodil International University.<br/>
-    I love building sleek, scalable web apps and exploring new technologies that push my skills forward.
+    <a href="https://www.linkedin.com/in/shehabalrabby"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://wa.me/8801773562177"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-### ✨ What I’m About
-- 🚀 Passionate about MERN development
-- 🧩 Love taking on challenges & solving real problems
-- 📚 Always learning, always improving
-- 🤝 Open to collaborations & exciting project ideas
-- 🌱 Currently learning TypeScript and Next.js
-- 🛠️ Focused on building full-stack apps, dashboards, and clean UI/UX
-- 💼 Aiming to become a full-stack engineer
-- 🌍 Interested in contributing to open-source projects
-- 🎧 Coding with music & exploring new tech challenges
+### 🚀 Quick Overview
+
+<table align="center" width="100%" border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <b>Hi, I'm Md. Shehab Al Rabby</b> 👋<br/><br/>
+      I am a Junior MERN Stack Developer currently pursuing my CSE degree at <b>Daffodil International University</b>. I bridge the gap between complex backend logic and sleek, intuitive frontend design.
+      <br/><br/>
+      <ul>
+        <li>🔭 <b>Currently:</b> Engineering a large-scale MERN application.</li>
+        <li>🌱 <b>Learning:</b> TypeScript & Next.js for high-performance apps.</li>
+        <li>💬 <b>Expertise:</b> UI/UX, RESTful APIs, and Database Management.</li>
+        <li>⚡ <b>Goal:</b> Building scalable solutions that solve real problems.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=shehabRabby&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🔭 Currently Working On
-- 🚀 Building a large full-stack web application using **React.js**
-- 🛠️ Learning **MongoDB** for backend data management
-- 💻 Exploring deeper backend concepts like authentication, APIs, and server-side logic
-- 🎨 Diving into advanced frontend topics for cleaner, more interactive UI/UX
+### 🛠️ Professional Tech Stack
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center"><b>Backend</b></td>
+      <td align="center"><b>Tools</b></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" /></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" /></td>
+      <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🛠️ Skills
-<p>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+### 📊 Code Analytics & Contribution
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehabRabby&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehabRabby&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8" height="180px" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shehabRabby&theme=tokyonight" width="100%"/>
+</div>
+
+---
+
+### 🏗️ Featured Repositories
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/shehabRabby/Book_Courier_Client">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shehabRabby&repo=Book_Courier_Client&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/shehabRabby/Dragon-News-">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shehabRabby&repo=Dragon-News-&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/shehabRabby/My_Library_Client">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shehabRabby&repo=My_Library_Client&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/shehabRabby/Assignment-8-Hero-App">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shehabRabby&repo=Assignment-8-Hero-App&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🤝 Connect & Collaborate
+
+<p align="center">
+<a href="https://t.me/Shehab00999"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://www.facebook.com/share/16ZPzP2fkS/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shehabalrabby"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
-
-## GitHub Stats
-
-| Top Languages | GitHub Stats | GitHub Streak |
-|:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shehabRabby&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shehabRabby&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=wide) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shehabRabby&theme=transparent&hide_border=true&layout=wide) |
-
----
-
-### 📊 Project Info / Stats
-| Repo Name | Languages & Frameworks | Stars | Forks | Issues | Link |
-|-----------|----------------------|-------|-------|--------|------|
-| Book Courier | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![Stars](https://img.shields.io/github/stars/shehabRabby/Book_Courier_Client?style=for-the-badge&logo=github&logoColor=white&color=blue) | ![Forks](https://img.shields.io/github/forks/shehabRabby/Book_Courier_Client?style=for-the-badge&logo=github&logoColor=white&color=green) | ![Issues](https://img.shields.io/github/issues/shehabRabby/Book_Courier_Client?style=for-the-badge&logo=github&logoColor=white&color=red) | [View Repo](https://github.com/shehabRabby/Book_Courier_Client) |
-| Assignment 8 Hero App | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![Stars](https://img.shields.io/github/stars/shehabRabby/Assignment-8-Hero-App?style=for-the-badge&logo=github&logoColor=white&color=blue) | ![Forks](https://img.shields.io/github/forks/shehabRabby/Assignment-8-Hero-App?style=for-the-badge&logo=github&logoColor=white&color=green) | ![Issues](https://img.shields.io/github/issues/shehabRabby/Assignment-8-Hero-App?style=for-the-badge&logo=github&logoColor=white&color=red) | [View Repo](https://github.com/shehabRabby/Assignment-8-Hero-App) |
-| My Library Client | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![Stars](https://img.shields.io/github/stars/shehabRabby/My_Library_Client?style=for-the-badge&logo=github&logoColor=white&color=blue) | ![Forks](https://img.shields.io/github/forks/shehabRabby/My_Library_Client?style=for-the-badge&logo=github&logoColor=white&color=green) | ![Issues](https://img.shields.io/github/issues/shehabRabby/My_Library_Client?style=for-the-badge&logo=github&logoColor=white&color=red) | [View Repo](https://github.com/shehabRabby/My_Library_Client) |
-| Dragon News | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Stars](https://img.shields.io/github/stars/shehabRabby/Dragon-News-?style=for-the-badge&logo=github&logoColor=white&color=blue) | ![Forks](https://img.shields.io/github/forks/shehabRabby/Dragon-News-?style=for-the-badge&logo=github&logoColor=white&color=green) | ![Issues](https://img.shields.io/github/issues/shehabRabby/Dragon-News-?style=for-the-badge&logo=github&logoColor=white&color=red) | [View Repo](https://github.com/shehabRabby/Dragon-News-) |
-
-
----
-
-### 🔗 Connect with me
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/16ZPzP2fkS/) &nbsp; 
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shehab00999) &nbsp; 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801773562177) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehabalrabby)
-
-
----
-
-> Made with ❤️ by **Shehab Rabby** – always learning, always building.  
-> 🚀 Passionate about coding, open-source, and cool projects.  
-> 💡 “Keep it simple, keep it clean, keep it fun.”  
-> 🌐 Connect with me and let’s build something amazing together!  
-> 👨‍💻 Thanks for visiting my GitHub profile – your support means a lot!
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shehabRabby.shehabRabby&left_text=Profile%20Visitors" />
+  <br/><br/>
+  <sub><i>"Building the future, one line of code at a time."</i></sub><br/>
+  <b>Md. Shehab Al Rabby • 2024</b>
+</div>
