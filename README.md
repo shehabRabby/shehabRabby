@@ -13,21 +13,20 @@
 ---
 
 ### 🚀 Quick Overview
-
 <table align="center" width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
       <b>Hi, I'm Md. Shehab Al Rabby</b> 👋<br/><br/>
-      I am a Junior MERN Stack Developer currently pursuing my CSE degree at <b>Daffodil International University</b>.
+      I am a Junior MERN Stack Developer. I specialize in building scalable digital experiences with the MERN stack.
       <br/><br/>
       <ul>
         <li>🔭 <b>Currently:</b> Engineering a large-scale MERN application.</li>
-        <li>🌱 <b>Learning:</b> TypeScript & Next.js.</li>
-        <li>⚡ <b>Goal:</b> Building scalable solutions.</li>
+        <li>🌱 <b>Learning:</b> TypeScript & Next.js for high performance.</li>
+        <li>⚡ <b>Goal:</b> Building impactful, real-world solutions.</li>
       </ul>
     </td>
-<td width="50%" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shehabRabby&show_icons=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=7f8c8d&hide_border=true" width="100%" alt="Stats Card"/>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shehabRabby&show_icons=true&theme=radical&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=9CA3AF&hide_border=true" width="100%" alt="Stats Card"/>
     </td>
   </tr>
 </table>
@@ -43,7 +42,7 @@
 
 ### 📊 Activity & Top Languages
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shehabRabby&layout=compact&theme=transparent&title_color=38BDF8&text_color=7f8c8d&hide_border=true" height="180px" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shehabRabby&layout=compact&theme=radical&bg_color=00000000&title_color=38BDF8&text_color=9CA3AF&hide_border=true" height="180px" alt="Top Langs" />
   
   <br/>
 
@@ -54,19 +53,44 @@
 
 ### 🏗️ Featured Repositories
 <div align="center">
-  <a href="https://github.com/shehabRabby/Book_Courier_Client">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shehabRabby&repo=Book_Courier_Client&theme=transparent&title_color=38BDF8&text_color=7f8c8d&hide_border=false" />
-  </a>
-  <a href="https://github.com/shehabRabby/Dragon-News-">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shehabRabby&repo=Dragon-News-&theme=transparent&title_color=38BDF8&text_color=7f8c8d&hide_border=false" />
-  </a>
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/shehabRabby/Book_Courier_Client">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shehabRabby&repo=Book_Courier_Client&theme=radical&bg_color=00000000&title_color=38BDF8&text_color=9CA3AF&hide_border=false" />
+        </a>
+        <br/>
+        <i>MERN stack courier platform for book lovers.</i>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/shehabRabby/Dragon-News-">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shehabRabby&repo=Dragon-News-&theme=radical&bg_color=00000000&title_color=38BDF8&text_color=9CA3AF&hide_border=false" />
+        </a>
+        <br/>
+        <i>Real-time dynamic news portal.</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🌟 Extra Insights
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=shehabRabby&theme=radical&background=00000000&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shehabRabby&theme=flat&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
 </div>
 
 ---
 
 ### 🤝 Connect & Collaborate
 <p align="center">
-<a href="https://t.me/Shehab00999"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://www.facebook.com/share/16ZPzP2fkS/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/shehabalrabby"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/Shehab00999"><img src="https://img.shields.io/badge/Telegram-38BDF8?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://www.facebook.com/share/16ZPzP2fkS/"><img src="https://img.shields.io/badge/Facebook-38BDF8?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shehabalrabby"><img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shehabRabby.shehabRabby&left_text=Profile%20Visitors&color=38BDF8" />
+</div>
