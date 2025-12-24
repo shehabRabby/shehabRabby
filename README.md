@@ -77,11 +77,12 @@
 
 ### 🌟 Extra Insights
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shehabRabby&theme=radical&background=00000000&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=shehabRabby&theme=radical&background=00000000&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=38BDF8" alt="Streak Stats" />
+  
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=shehabRabby&theme=flat&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=shehabRabby&theme=flat&no-bg=true&no-frame=true&margin-w=15&title=38BDF8" alt="Trophies" />
 </div>
-
 ---
 
 ### 🤝 Connect & Collaborate
