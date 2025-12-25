@@ -17,7 +17,7 @@
   <tr>
     <td width="50%" valign="top">
       <b>Hi, I'm Md. Shehab Al Rabby</b> 👋<br/><br/>
-      I am a Junior MERN Stack Developer. I  specialize in building scalable digital experiences with the MERN stack.
+      I am a Junior MERN Stack Developer. I specialize in building scalable digital experiences with the MERN stack.
       <br/><br/>
       <ul>
         <li>🔭 <b>Currently:</b> Engineering a large-scale MERN application.</li>
