@@ -16,7 +16,7 @@
 <table align="center" width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
-      <b>Hi,  I'm Md. Shehab Al Rabby</b> 👋<br/><br/>
+      <b>Hi,I'm Md. Shehab Al Rabby</b> 👋<br/><br/>
       I am a Junior MERN Stack Developer. I specialize in building scalable digital experiences with the MERN stack.
       <br/><br/>
       <ul>
