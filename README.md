@@ -22,7 +22,7 @@
       <ul>
         <li>🔭 <b>Currently:</b> Engineering a large-scale MERN application.</li>
         <li>🌱 <b>Learning:</b> TypeScript & Next.js for high performance.</li>
-        <li>⚡ <b>Goal:</b> Building impactful, real-world solutions.</li>
+        <li>⚡ <b>Goal:</b> Building impactful,real-world solutions.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
