@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 Activity & Top Language
+### 📊 Activity & Top Languages
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shehabRabby&layout=compact&theme=radical&bg_color=00000000&title_color=38BDF8&text_color=9CA3AF&hide_border=true" height="180px" alt="Top Langs" />
   
