@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://i.ibb.co.com/ch1H5zPJ/Yellow-and-Black-Minimalist-Business-Linked-In-Banner-1.jpg" width="100%" alt="Shehab's Banner"/>
+<div align="center">
+  <img src="https://i.ibb.co.com/ch1H5zPJ/Yellow-and-Black-Minimalist-Business-Linked-In-Banner-1.jpg" style="max-width: 100%; height: auto; display: block;" alt="Shehab's Banner"/>
+</div>
 
 <p align="center">
   <a href="https://www.facebook.com/share/1WWyXMPw91/">
