@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-  <img src="https://i.ibb.co.com/ch1H5zPJ/Yellow-and-Black-Minimalist-Business-Linked-In-Banner-1.jpg" style="max-width: 100%; height: auto; display: block;" alt="Shehab's Banner"/>
+ <img src="banner.jpg" style="width: 100%; height: auto; display: block;" alt="Shehab's Banner"/>
 </div>
 
 <p align="center">
