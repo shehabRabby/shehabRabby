@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Quick Overview
+### 🚀 Quick Overviews
 <table align="center" width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
