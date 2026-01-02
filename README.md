@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co.com/99T0v96B/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner.png" width="100%" alt="Shehab's Banner"/>
+<img src="https://i.ibb.co.com/ch1H5zPJ/Yellow-and-Black-Minimalist-Business-Linked-In-Banner-1.jpg" width="100%" alt="Shehab's Banner"/>
 
 <p align="center">
   <a href="https://www.facebook.com/share/1WWyXMPw91/">
