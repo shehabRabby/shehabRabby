@@ -1,6 +1,25 @@
 <div align="center">
 <img src="https://i.ibb.co/KjLhrTH5/banner.png" width="100%" alt="Shehab's Banner"/>
 
+<p align="center">
+  <a href="https://www.facebook.com/share/1WWyXMPw91/">
+    <img src="https://cdni.iconscout.com/illustration/premium/thumb/man-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--person-using-freelancer-pack-people-illustrations-3304192.gif" width="400" alt="Man working on computer">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.facebook.com/share/1WWyXMPw91/">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVpZ3h6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Pixel Art Coding">
+  </a>
+</p>
+
+<p align="center">
+  <samp>
+    <b>Hi there! I'm currently working on some cool projects.</b><br>
+    Let's connect on Facebook for more updates!
+  </samp>
+</p>
+
 
 ### 🚀 Quick Overviews
 <table align="center" width="100%" border="0">
