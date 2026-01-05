@@ -98,7 +98,11 @@
 ---
 
 ### 🤝 Connect & Collaborate
+
 <p align="center">
+  <a href="https://shehabsportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://t.me/Shehab00999">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
