@@ -74,11 +74,11 @@
         <i>MERN stack courier platform for book lovers.</i>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/shehabRabby/Dragon-News-">
+        <a href="https://github.com/shehabRabby/FoodHub-Nextjs">
           <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shehabRabby&repo=Dragon-News-&theme=radical&bg_color=00000000&title_color=38BDF8&text_color=9CA3AF&hide_border=false" />
         </a>
         <br/>
-        <i>Real-time dynamic news portal.</i>
+        <i>Collection of all famous foods.</i>
       </td>
     </tr>
   </table>
