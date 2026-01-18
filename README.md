@@ -66,6 +66,7 @@
 <div align="center">
   <table border="0">
     <tr>
+      <!-- Project 1 -->
       <td width="50%" align="center">
         <a href="https://github.com/shehabRabby/Book_Courier_Client">
           <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shehabRabby&repo=Book_Courier_Client&theme=radical&bg_color=00000000&title_color=38BDF8&text_color=9CA3AF&hide_border=false" />
@@ -73,16 +74,22 @@
         <br/>
         <i>MERN stack courier platform for book lovers.</i>
       </td>
+
+      <!-- Project 2 -->
       <td width="50%" align="center">
-        <a href="https://github.com/shehabRabby/FoodHub-Nextjs">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shehabRabby&repo=FoodHub&theme=radical&bg_color=00000000&title_color=38BDF8&text_color=9CA3AF&hide_border=false" />
+        <!-- LIVE LINK -->
+        <a href="https://foodhubs00.netlify.app/">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shehabRabby&repo=FoodHub-Nextjs&theme=radical&bg_color=00000000&title_color=38BDF8&text_color=9CA3AF&hide_border=false" />
         </a>
         <br/>
         <i>Collection of all famous foods.</i>
+        <br/>
+        <a href="https://github.com/shehabRabby/FoodHub-Nextjs">Repo</a>
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
