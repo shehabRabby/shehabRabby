@@ -63,8 +63,9 @@
 ---
 
 ### 🏗️ Featured Repositories
+
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="10" cellpadding="0">
     <tr>
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/shehabRabby/Book_Courier_Client">
@@ -81,13 +82,12 @@
         </a>
         <p align="center">
           <i>Collection of all famous foods.</i><br />
-          <a href="https://foodhubs00.netlify.app/"><b>Live Demo</b></a>
+          <a href="https://foodhubs00.netlify.app/"><b>🌐 Live Demo</b></a>
         </p>
       </td>
     </tr>
   </table>
 </div>
-
 
 ---
 
