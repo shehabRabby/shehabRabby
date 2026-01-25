@@ -32,7 +32,7 @@
       <br/><br/>
       <ul>
         <li>🔭 <b>Currently:</b> Engineering a large-scale MERN application.</li>
-        <li>🌱 <b>Learning:</b> TypeScript & Next.js for high performance.</li>
+        <li>🌱 <b>Learning:</b> Next.js for high performance.</li>
         <li>⚡ <b>Goal:</b> Building impactful, real-world solutions.</li>
       </ul>
     </td>
