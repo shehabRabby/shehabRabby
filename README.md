@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
- <img src="banner.jpg" style="width: 100%; height: auto; display: block;" alt="S hehab's Banner"/>
+ <img src="banner.jpg" style="width: 100%; height: auto; display: block;" alt="S  hehab's Banner"/>
 </div>
 
 <p align="center">
