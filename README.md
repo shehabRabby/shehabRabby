@@ -1,6 +1,16 @@
 <div align="center">
-<div align="center">
- <img src="banner.jpg" style="width: 100%; height: auto; display: block;" alt="Shehab's Banner"/>
+  <!-- Interactive Aesthetic Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Md.%20Shehab%20Al%20Rabby&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+
+  <!-- Animated Terminal Typing -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38bdf8&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Next.js+%26+Framer+Motion;UI%2FUX+Focused+Engineering;Turning+Complexity+into+Simplicity" alt="Typing SVG" />
+
+  <!-- Glassmorphism Stats Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/shehabalrabby"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://shehabsportfolio.netlify.app/"><img src="https://img.shields.io/badge/Visit-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+    <a href="mailto:shehabrabby764@gmail.com"><img src="https://img.shields.io/badge/Contact-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
 </div>
 
 <p align="center">
