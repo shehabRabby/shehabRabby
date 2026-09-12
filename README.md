@@ -1,17 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Md.%20Shehab%20Al%20Rabby&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=280&section=header&text=Md.%20Shehab%20Al%20Rabby&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js&descAlignY=58&descSize=22" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN+%2B+Next.js);React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+PostgreSQL+%7C+MongoDB;RBAC+%7C+JWT+%7C+Stripe+%7C+TanStack+Query" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+(MERN+%2B+Next.js);Building+Secure%2C+Scalable+Web+Apps;React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+PostgreSQL+%7C+MongoDB;RBAC+%7C+JWT+%7C+Stripe+%7C+TanStack+Query" alt="Typing SVG" />
+
+<br/><br/>
 
 <p align="center">
-  <a href="https://mdshehab-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="http://www.linkedin.com/in/shehabalrabby"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shehabrabby764@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/8801773562177"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://mdshehab-portfolio.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-00C7B7?style=for-the-badge&logoColor=white" height="40"/></a>
+  &nbsp;
+  <a href="http://www.linkedin.com/in/shehabalrabby"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
+  &nbsp;
+  <a href="mailto:shehabrabby764@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
+  &nbsp;
+  <a href="https://wa.me/8801773562177"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40"/></a>
+  &nbsp;
+  <a href="https://github.com/shehabRabby"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
 </p>
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=shehabRabby.shehabRabby&left_text=Profile%20Views&left_color=0f172a&right_color=38BDF8&style=for-the-badge" />
+
 </div>
+
+<br/>
+
 
 ---
 
