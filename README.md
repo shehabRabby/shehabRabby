@@ -34,22 +34,34 @@
 
 
 ### 🚀 Quick Overview
+
 <table align="center" width="100%" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <b>Hi,I'm Md. Shehab Al Rabby</b> 👋<br/><br/>
-      I am a Junior MERN Stack Developer.I specialize in building scalable digital experiences with the MERN stack.
-      <br/><br/>
-      <ul>
-        <li>🔭 <b>Currently:</b> Engineering a large-scale MERN application.</li>
-        <li>🌱 <b>Learning:</b> Next.js for high performance.</li>
-        <li>⚡ <b>Goal:</b> Building impactful, real-world solutions.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shehabRabby&show_icons=true&theme=radical&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=9CA3AF&hide_border=true" width="100%" alt="Stats Card"/>
-    </td>
-  </tr>
+<tr>
+<td width="55%" valign="top">
+
+### Hi, I'm Md. Shehab Al Rabby 👋
+
+I'm a Full-Stack Developer focused on building scalable, secure, and production-ready web applications. I enjoy turning ideas and Figma designs into responsive digital products using modern frontend and backend technologies.
+- 💻 **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, DaisyUI
+- ⚙️ **Backend:** Node.js, Express.js, Prisma, RESTful APIs
+- 🗄️ **Database:** PostgreSQL, MongoDB, SQL & NoSQL
+- 🔐 **Authentication:** Firebase Authentication, JWT & RBAC
+- 💳 **Payments:** Stripe & SSLCommerz
+- 🛡️ **Security:** Protected API Routes & Role-Based Authorization
+- 🚀 **Deployment:** Vercel & Netlify
+
+🌱 Currently strengthening my skills in **Next.js, TypeScript, backend architecture & scalable application development**.
+
+🎯 **Goal:** Build impactful, scalable, and user-focused solutions while growing as a professional Full-Stack Developer.
+
+</td>
+<td width="45%" valign="top">
+
+<h2 align="center">📊 My GitHub Statistics</h2>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shehabRabby&show_icons=true&theme=radical&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=9CA3AF&hide_border=true" width="100%" alt="GitHub Statistics" />
+
+</td>
+</tr>
 </table>
 
 ---
