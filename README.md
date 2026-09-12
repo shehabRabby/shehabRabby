@@ -24,8 +24,6 @@
 </div>
 
 <br/>
-
-
 ---
 
 ### 🚀 About Me
@@ -40,9 +38,9 @@ I'm a **Full-Stack Developer** skilled in **React.js, Next.js, and TypeScript** 
 - ⚙️ **Backend:** Node.js, Express.js, Prisma, RESTful APIs
 - 🗄️ **Database:** PostgreSQL, MongoDB Atlas, SQL & NoSQL
 - 🔐 **Auth & Security:** JWT, Firebase Authentication, Role-Based Access Control (RBAC)
-- 💳 **Payments:** Stripe
+- 💳 **Payments:** Stripe, sslcommerz Bkash
 - 🚀 **Deployment:** Vercel, Netlify
-- 📍 Based in Mirpur-1, Dhaka, Bangladesh
+- 📍 Based in YKSG-1, Daffodil International University, Savar, Dhaka, Bangladesh
 
 🌱 Currently strengthening my skills in **Next.js, TypeScript, and scalable backend architecture**.
 
