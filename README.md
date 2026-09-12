@@ -1,64 +1,49 @@
 <div align="center">
-  <!-- Interactive Aesthetic Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Md.%20Shehab%20Al%20Rabby&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <!-- Animated Terminal Typing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38bdf8&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Next.js+%26+Framer+Motion;UI%2FUX+Focused+Engineering;Turning+Complexity+into+Simplicity" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Md.%20Shehab%20Al%20Rabby&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <!-- Glassmorphism Stats Badges -->
-  <p align="center">
-    <a href="https://linkedin.com/in/shehabalrabby"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://shehabsportfolio.netlify.app/"><img src="https://img.shields.io/badge/Visit-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-    <a href="mailto:shehabrabby764@gmail.com"><img src="https://img.shields.io/badge/Contact-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN+%2B+Next.js);React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+PostgreSQL+%7C+MongoDB;RBAC+%7C+JWT+%7C+Stripe+%7C+TanStack+Query" alt="Typing SVG" />
+
+<p align="center">
+  <a href="https://mdshehab-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="http://www.linkedin.com/in/shehabalrabby"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shehabrabby764@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/8801773562177"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
 </div>
 
-<p align="center">
-  <a href="https://www.facebook.com/share/1WWyXMPw91/">
-    <img src="https://cdni.iconscout.com/illustration/premium/thumb/man-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--person-using-freelancer-pack-people-illustrations-3304192.gif" width="400" alt="Man working on computer">
-  </a>
-</p>
+---
 
-<p align="center">
-  <a href="https://www.facebook.com/share/1WWyXMPw91/">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVpZ3h6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Pixel Art Coding">
-  </a>
-</p>
-
-<p align="center">
-  <samp>
-    <b>Hi there! I'm currently working on some cool projects.</b><br>
-    Let's connect on Facebook for more updates!
-  </samp>
-</p>
-
-
-### 🚀 Quick Overview
+### 🚀 About Me
 
 <table align="center" width="100%" border="0">
 <tr>
 <td width="55%" valign="top">
 
-### Hi, I'm Md. Shehab Al Rabby 👋
+I'm a **Full-Stack Developer** skilled in **React.js, Next.js, and TypeScript** on the frontend, paired with **Node.js, Express, and SQL/NoSQL databases** on the backend. I build production-style, role-based web applications with secure authentication and RBAC systems, RESTful API and payment gateway integration, and responsive, cross-browser interfaces from Figma designs.
 
-I'm a Full-Stack Developer focused on building scalable, secure, and production-ready web applications. I enjoy turning ideas and Figma designs into responsive digital products using modern frontend and backend technologies.
-- 💻 **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, DaisyUI
+- 🎓 B.Sc. in CSE, Daffodil International University (Expected 2027) — CGPA 3.69/4.00
+- 💻 **Frontend:** React.js, Next.js, TypeScript, TanStack Query, Axios, Tailwind CSS, DaisyUI
 - ⚙️ **Backend:** Node.js, Express.js, Prisma, RESTful APIs
-- 🗄️ **Database:** PostgreSQL, MongoDB, SQL & NoSQL
-- 🔐 **Authentication:** Firebase Authentication, JWT & RBAC
-- 💳 **Payments:** Stripe & SSLCommerz
-- 🛡️ **Security:** Protected API Routes & Role-Based Authorization
-- 🚀 **Deployment:** Vercel & Netlify
+- 🗄️ **Database:** PostgreSQL, MongoDB Atlas, SQL & NoSQL
+- 🔐 **Auth & Security:** JWT, Firebase Authentication, Role-Based Access Control (RBAC)
+- 💳 **Payments:** Stripe
+- 🚀 **Deployment:** Vercel, Netlify
+- 📍 Based in Mirpur-1, Dhaka, Bangladesh
 
-🌱 Currently strengthening my skills in **Next.js, TypeScript, backend architecture & scalable application development**.
+🌱 Currently strengthening my skills in **Next.js, TypeScript, and scalable backend architecture**.
 
-🎯 **Goal:** Build impactful, scalable, and user-focused solutions while growing as a professional Full-Stack Developer.
+🎯 **Goal:** Ship scalable, end-to-end, standards-compliant web solutions as a professional Full-Stack Developer.
 
 </td>
 <td width="45%" valign="top">
 
-<h2 align="center">📊 My GitHub Statistics</h2>
+<h3 align="center">📊 GitHub Stats</h3>
+
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shehabRabby&show_icons=true&theme=radical&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=9CA3AF&hide_border=true" width="100%" alt="GitHub Statistics" />
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shehabRabby&layout=compact&theme=radical&bg_color=00000000&title_color=38BDF8&text_color=9CA3AF&hide_border=true" width="100%" alt="Top Langs" />
 
 </td>
 </tr>
@@ -66,21 +51,20 @@ I'm a Full-Stack Developer focused on building scalable, secure, and production-
 
 ---
 
-### 🛠️ Professional Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,nodejs,express,mongodb,firebase,git,github,vscode,postman,figma&perline=15" alt="Tech Stack" />
-</div>
-
-## 🧰 Tools & Workflow
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vite,npm,netlify,vercel,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,nodejs,express,postgres,mongodb,firebase,git,github,figma,vscode&perline=16" alt="Tech Stack" />
 </div>
 
 <p align="center">
-  Branching · Pull Requests · Clean Commits · CI-friendly workflow
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
-
 
 ---
 
