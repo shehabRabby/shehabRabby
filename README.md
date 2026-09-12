@@ -24,7 +24,8 @@
 </div>
 
 <br/>
----
+
+
 
 ### 🚀 About Me
 
@@ -33,7 +34,7 @@
 <td width="55%" valign="top">
 I'm a **Full-Stack Developer** skilled in **React.js, Next.js, and TypeScript** on the frontend, paired with **Node.js, Express, and SQL/NoSQL databases** on the backend. I build production-style, role-based web applications with secure authentication and RBAC systems, RESTful API and payment gateway integration, and pixel-perfect, cross-browser interfaces from Figma designs.
 
-- 🎓 B.Sc. in CSE, Daffodil International University (Expected 2027) — CGPA 3.69/4.00
+- 🎓 B.Sc. in CSE, Daffodil International University (Expected 2027) - CGPA 3.69/4.00
 - 💻 **Frontend:** React.js, Next.js, TypeScript, TanStack Query, Axios, Tailwind CSS, DaisyUI
 - ⚙️ **Backend:** Node.js, Express.js, Prisma, RESTful APIs
 - 🗄️ **Database:** PostgreSQL, MongoDB Atlas, SQL & NoSQL
