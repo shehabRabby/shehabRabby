@@ -40,7 +40,6 @@ I'm a **Full-Stack Developer** skilled in **React.js, Next.js, and TypeScript** 
 - 🔐 **Auth & Security:** JWT, Firebase Authentication, Role-Based Access Control (RBAC)
 - 💳 **Payments:** Stripe, sslcommerz Bkash
 - 🚀 **Deployment:** Vercel, Netlify
-- 📍 Based in YKSG-1, Daffodil International University, Savar, Dhaka, Bangladesh
 
 🌱 Currently strengthening my skills in **Next.js, TypeScript, and scalable backend architecture**.
 
