@@ -47,7 +47,7 @@ I'm a Full-Stack Developer skilled in React.js, Next.js, and TypeScript on the f
 🎯 **Goal:** Ship scalable, end-to-end, standards-compliant web solutions as a professional Full-Stack Developer.
 
 </td>
-<td width="40%" valign="top">
+<td valign="top">
 
 <h3 align="center">📊 GitHub Stats</h3>
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="460" />
