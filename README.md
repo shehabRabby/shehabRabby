@@ -31,32 +31,45 @@
 
 <table align="center" width="100%" border="0">
 <tr>
-<td width="60%" text="center" valign="top">
-I'm a Full-Stack Developer skilled in React.js, Next.js, and TypeScript on the frontend, paired with Node.js, Express, and SQL/NoSQL databases on the backend. I build production-style, role-based web applications with secure authentication and RBAC systems, RESTful API and payment gateway integration, and pixel-perfect, cross-browser interfaces from Figma designs.
 
-- 🎓 B.Sc. in CSE, Daffodil International University (Expected 2027) - CGPA 3.69/4.00
-- 💻 **Frontend:** React.js, Next.js, TypeScript, TanStack Query, Axios, Tailwind CSS, DaisyUI
-- ⚙️ **Backend:** Node.js, Express.js, Prisma, RESTful APIs
-- 🗄️ **Database:** PostgreSQL, MongoDB Atlas, SQL & NoSQL
-- 🔐 **Auth & Security:** JWT, Firebase Authentication, Role-Based Access Control (RBAC)
-- 💳 **Payments:** Stripe, sslcommerz Bkash
-- 🚀 **Deployment:** Vercel, Netlify
+<td width="65%" valign="top">
+
+<p align="justify">
+I'm a Full-Stack Developer skilled in React.js, Next.js, and TypeScript on the frontend, paired with Node.js, Express, and SQL/NoSQL databases on the backend. I build production-style, role-based web applications with secure authentication and RBAC systems, RESTful API and payment gateway integration, and pixel-perfect, cross-browser interfaces from Figma designs.
+</p>
+
+* 🎓 B.Sc. in CSE, Daffodil International University (Expected 2027) - CGPA 3.69/4.00
+
+* 💻 **Frontend:** React.js, Next.js, TypeScript, TanStack Query, Axios, Tailwind CSS, DaisyUI
+
+* ⚙️ **Backend:** Node.js, Express.js, Prisma, RESTful APIs
+
+* 🗄️ **Database:** PostgreSQL, MongoDB Atlas, SQL & NoSQL
+
+* 🔐 **Auth & Security:** JWT, Firebase Authentication, Role-Based Access Control (RBAC)
+
+* 💳 **Payments:** Stripe, SSLCommerz, bKash
+
+* 🚀 **Deployment:** Vercel, Netlify
 
 🌱 Currently strengthening my skills in **Next.js, TypeScript, and scalable backend architecture**.
 
 🎯 **Goal:** Ship scalable, end-to-end, standards-compliant web solutions as a professional Full-Stack Developer.
 
 </td>
-<td valign="top">
+
+<td width="35%" valign="top">
 
 <h3 align="center">📊 GitHub Stats</h3>
+
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="460" />
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shehabRabby&show_icons=true&theme=radical&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=9CA3AF&hide_border=true" width="100%" alt="GitHub Statistics" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shehabRabby&layout=compact&theme=radical&bg_color=00000000&title_color=38BDF8&text_color=9CA3AF&hide_border=true" width="100%" alt="Top Langs" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shehabRabby&layout=compact&theme=radical&bg_color=00000000&title_color=38BDF8&text_color=9CA3AF&hide_border=true" width="100%" alt="Top Languages" />
 
 </td>
+
 </tr>
 </table>
 
