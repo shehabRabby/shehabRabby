@@ -35,7 +35,9 @@
 <tr>
 <td width="55%" valign="top">
 
-I'm a **Full-Stack Developer** skilled in **React.js, Next.js, and TypeScript** on the frontend, paired with **Node.js, Express, and SQL/NoSQL databases** on the backend. I build production-style, role-based web applications with secure authentication and RBAC systems, RESTful API and payment gateway integration, and responsive, cross-browser interfaces from Figma designs.
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380" />
+
+I'm a **Full-Stack Developer** skilled in **React.js, Next.js, and TypeScript** on the frontend, paired with **Node.js, Express, and SQL/NoSQL databases** on the backend. I build production-style, role-based web applications with secure authentication and RBAC systems, RESTful API and payment gateway integration, and pixel-perfect, cross-browser interfaces from Figma designs.
 
 - 🎓 B.Sc. in CSE, Daffodil International University (Expected 2027) — CGPA 3.69/4.00
 - 💻 **Frontend:** React.js, Next.js, TypeScript, TanStack Query, Axios, Tailwind CSS, DaisyUI
