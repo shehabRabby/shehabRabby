@@ -5,7 +5,6 @@
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+(MERN+%2B+Next.js);Building+Secure%2C+Scalable+Web+Apps;React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+PostgreSQL+%7C+MongoDB;RBAC+%7C+JWT+%7C+Stripe+%7C+TanStack+Query" alt="Typing SVG" />
-
 <br/><br/>
 
 <p align="center">
@@ -34,9 +33,6 @@
 <table align="center" width="100%" border="0">
 <tr>
 <td width="55%" valign="top">
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380" />
-
 I'm a **Full-Stack Developer** skilled in **React.js, Next.js, and TypeScript** on the frontend, paired with **Node.js, Express, and SQL/NoSQL databases** on the backend. I build production-style, role-based web applications with secure authentication and RBAC systems, RESTful API and payment gateway integration, and pixel-perfect, cross-browser interfaces from Figma designs.
 
 - 🎓 B.Sc. in CSE, Daffodil International University (Expected 2027) — CGPA 3.69/4.00
@@ -56,6 +52,7 @@ I'm a **Full-Stack Developer** skilled in **React.js, Next.js, and TypeScript** 
 <td width="45%" valign="top">
 
 <h3 align="center">📊 GitHub Stats</h3>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="460" />
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shehabRabby&show_icons=true&theme=radical&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=9CA3AF&hide_border=true" width="100%" alt="GitHub Statistics" />
 
